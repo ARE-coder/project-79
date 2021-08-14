@@ -1,0 +1,29 @@
+body{
+    background-image: url(Pizza.jpg);
+    background-size: cover;
+    color: rgb(250, 246, 0);
+    font-size: 26px;
+
+}
+
+marquee{
+   color: white;
+   font-size: 29px; 
+}
+li{
+    color: red;
+    list-style: none;
+    top: 10px;
+    right:30px;
+    display: inline;
+    margin-left: 10px;
+    cursor: pointer;
+    float:right;
+    font-family: cursive;
+}
+.menu{
+    align-content: left;
+    color: red;
+    height:1.25cm;
+    width:2.5cm;
+}
